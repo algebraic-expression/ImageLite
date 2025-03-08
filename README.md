@@ -1,6 +1,11 @@
 # Image Lite
 A lightweight image viewing software with fast load times, frequently used viewing functionality, and essential UI elements.
 
+This software uses SDL2, a cross-platform development library.
+SDL2 is licensed under the zlib/libpng license.
+
+
+
 The use functionality (for inputs) has been documented as follows:
   - Shift + 1-9: Set zoom to n × 10%.
   - Shift + B: Swap values of red and green pixels of the image.
