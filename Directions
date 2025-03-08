@@ -1,0 +1,5 @@
+Use instructions:
+1. Extract the .zip file or build the application with SDL2, SDL_Image, main.cpp, IL_Icon.rc and Image Lite Icon.ico files.
+2.1. Drag and drop image files onto the application file.
+2.2.1. Alternatively, right-click an image and select Open With..., then select Image Lite.
+2.2.2. If it does not appear in the list, navigate to the executable, and select it.
