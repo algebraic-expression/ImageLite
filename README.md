@@ -9,13 +9,13 @@ The use functionality (for inputs) has been documented as follows:
 
   - Shift + Page Up: Zoom in by 1%.
   - Shift + Page Down: Zoom out by 1%.
-  - Shift + Arrow Keys: Navigation across the image (especially when zoomed in or when original size is on) by 1 pixel.
+  - Shift + Arrow Keys: Navigation across the image (especially when zoomed in or when original size is on) by 1 px.
 
-  - Ctrl + ⬅ / ➡: Rotate image by 5° in the anti-clockwise or clockwise direction.
-  - Ctrl + Shift + ⬅ / ➡: Rotate image by 1° in the anti-clockwise or clockwise direction.
-  - Ctrl + Alt + ⬅ / ➡: Rotate image by 45° in the anti-clockwise or clockwise direction.
+  - Ctrl + ← / →: Rotate image by 5° in the anti-clockwise or clockwise direction.
+  - Ctrl + Shift + ← / →: Rotate image by 1° in the anti-clockwise or clockwise direction.
+  - Ctrl + Alt + ← / →: Rotate image by 45° in the anti-clockwise or clockwise direction.
 
-  - Alt + ⬅ / ➡: Load the previous or the next image in the current directory with the extension .png, .jpg, .jpeg, .bmp or .ico.
+  - Alt + ← / →: Load the previous or the next image in the current directory with the extension .png, .jpg, .jpeg, .bmp or .ico.
 
   - 0: Reset zoom to 100%, view to the centre of the image, and rotation to 0%.
   - 1-9: Set zoom to n × 100%.
