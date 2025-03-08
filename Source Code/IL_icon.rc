@@ -1,0 +1,31 @@
+#include <winver.h>
+
+IDI_ICON1 ICON "Image Lite Icon.ico"
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 1,2,0,0
+ PRODUCTVERSION 1,2,0,0
+ FILEFLAGSMASK 0x3fL
+ FILEFLAGS 0x0L
+ FILETYPE 0x1L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "040904b0"
+        BEGIN
+            VALUE "FileDescription", "A lightweight image viewer software.\0"
+            VALUE "FileVersion", "1.2.0\0"
+            VALUE "InternalName", "Image Lite\0"
+            VALUE "OriginalFilename", "Image Lite.exe\0"
+            VALUE "ProductName", "Image Lite\0"
+            VALUE "ProductVersion", "1.2\0"
+			VALUE "LegalCopyright", "© 2025 Adarsh Prakash\0"
+			VALUE "Platform", "x64\0"
+        END
+    END
+	BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x0409, 1252
+    END
+END
