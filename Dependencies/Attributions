@@ -1,0 +1,21 @@
+## Information
+
+This software uses SDL2, a cross-platform development library.
+SDL2 is licensed under the zlib/libpng license.
+# Image Lite
+
+
+## Attributions
+
+This project uses the **Simple DirectMedia Layer (SDL2)**, developed by Sam Lantinga and others. SDL2 is licensed under the **zlib/libpng** license.
+
+SDL2 Libraries:
+- **SDL2** (Version 2.30.2)
+- **SDL2_image** (Version 2.8.2)
+
+The full text of the SDL2 license can be found in the LICENSES directory.
+
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
